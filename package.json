@@ -1,0 +1,25 @@
+{
+  "name": "lookup",
+  "version": "1.0.0",
+  "description": "Lookup table with default functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerspear/lookup.git"
+  },
+  "keywords": [
+    "lookup",
+    "table",
+    "lookup",
+    "defaults"
+  ],
+  "author": "spear.spencer@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencerspear/lookup/issues"
+  },
+  "homepage": "https://github.com/spencerspear/lookup#readme"
+}
